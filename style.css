@@ -1,0 +1,66 @@
+/*!
+ * Start Bootstrap - The Big Picture (http://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+
+body {
+	background-image: url("poonhill.jpg") no-repeat center center fixed;
+   /* background: url('http://placehold.it/1920x1080') no-repeat center center fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    /*background-color: #F2FFE3;*/
+
+}
+.content{
+	margin: 5% auto;
+	
+}
+
+h2{
+font-weight: 300;
+}
+
+p{
+	font-weight: 200;
+	font-size:1.3em;
+
+}
+
+
+.plinks {
+	font-size: 1.3em;
+	font-weight: 300px;
+	color:#1595A3;
+	padding:5px;
+
+	
+	font-weight:300;
+}
+
+
+
+.plinks:hover{
+	font-weight: 400;
+	text-decoration: none;
+	color: white;
+	background-color:#225378;
+}
+
+.bg-dark {
+border-top: 5px solid #EB7F00;
+background-color: #225378	!important;
+}
+.navbar-brand>img {
+  width:20%;
+  padding: 5px;
+  width: auto;
+}
+.navbar-brand{
+	background-image: url("LdotD-sm.png") no-repeat center center fixed;
+	font-weight: 200;
+	text-transform: uppercase;
+	font-size: 1em;
+}
